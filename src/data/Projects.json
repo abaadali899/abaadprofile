@@ -1,0 +1,69 @@
+[
+    {
+        "id": "1",
+        "title": "Facebook Clone",
+        "stack": "React",
+        "shortDescription": "A fully functional facebook clone  created using React.js, Firebase and Google Authentication, for styling use  CSS3.",
+        "description": "Excited to showcase my latest project: a fully functional Facebook clone  created using React.js. This website offers an immersive and informative experience, with a user-friendly design and dynamic features, it's a testament to my skills in web development and delivering outstanding user experiences.",
+        "imgUrl": "/assets/college-site/1.png",
+        "images": [
+            "/assets/college-site/1.png",
+            "/assets/college-site/2.png",
+            "/assets/college-site/3.png",
+            "/assets/college-site/4.png",
+            "/assets/college-site/5.png"
+        ],
+        "liveLink": "https://rad-alfajores-88d223.netlify.app/",
+        "gitHubLink": "https://github.com/abaadali899/facebook_clone.github.io"
+    },
+    {
+        "id": "5",
+        "title": "Software Alliance",
+        "stack": "React",
+        "shortDescription": "A fully functional Software Alliance website  created using React.js for styling use  CSS3 and Bootstrap5",
+        "description": "Excited to showcase my latest project: a fully functional Software Allicace  created using React.js. This website offers an immersive and informative experience, with a user-friendly design and dynamic features, it's a testament to my skills in web development and delivering outstanding user experiences.",
+        "imgUrl": "/assets/soft-alliance/1.png",
+        "images": [
+            "/assets/soft-alliance/1.png",
+            "/assets/soft-alliance/2.png",
+            "/assets/soft-alliance/3.png",
+            "/assets/soft-alliance/4.png",
+            "/assets/soft-alliance/5.png"
+        ],
+        "liveLink": "https://dulcet-lamington-937c61.netlify.app/",
+        "gitHubLink": "https://github.com/abaadali899/Software-alliance_2022"
+    },
+    {
+        "id": "2",
+        "title": "MERN E-Commerce",
+        "stack": "MERN",
+        "shortDescription": "A fully functional Ecommerce website withe React, Node, Express and MongoDB. for styling used CSS3",
+        "description": "Excited to showcase my latest project: a fully functional Ecommece website created using MERN. This website offers an immersive and informative experience, with a user-friendly design and dynamic features, it's a testament to my skills in web development and delivering outstanding user experiences.",
+        "imgUrl": "/assets/iG-downloader/1.png",
+        "images": [
+            "/assets/iG-downloader/2.png",
+            "/assets/iG-downloader/3.png"
+            
+        ],
+        "liveLink": "https://github.com/abaadali899/mern-ecommerce",
+        "gitHubLink": "https://github.com/abaadali899/mern-ecommerce"
+    },
+    
+    {
+        "id": "4",
+        "title": "Shoes.Online",
+        "stack": "JS",
+        "imgUrl": "/assets/car-site/1.png",
+        "shortDescription": "A fully functional Shoes.Online  site  developed Javascript, for styling use CSS3 and Bootstrap",
+        "description": "Excited to showcase my latest project: a fully functional Shoes.Online developed in JavaScript. This website offers an immersive and informative experience, with a user-friendly design and dynamic features, it's a testament to my skills in web development and delivering outstanding user experiences.",
+        "images": [
+            "/assets/car-site/2.png",
+            "/assets/car-site/3.png",
+            "/assets/car-site/4.png",
+            "/assets/car-site/5.png",
+            "/assets/car-site/6.png"
+        ],
+        "liveLink": "https://abaadali899.github.io/bootsrtap-e-commerce-web/",
+        "gitHubLink": "https://github.com/abaadali899/-ecommerce-"
+    }
+]

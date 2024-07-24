@@ -1,0 +1,42 @@
+[
+    {
+        "title": "React.JS",
+        "description": "I have garnered a rich two-month internship experience in Reactjs realm during my tenure at Software Alliance. ",
+        "imgUrl": "/assets/bgreact.png"
+    },
+    {
+        "title": "HTML5 ",
+        "description": "I have garnered a rich two-month internship experience in HTML5 realm during my tenure at Software Alliance. ",
+        "imgUrl": "/assets/html5.jpg"
+    },
+    {
+        "title": "Node.JS ",
+        "description": "I have garnered a rich two-month internship experience in Node.js realm during my tenure at Software Alliance.",
+        "imgUrl": "/assets/bgnode.png"
+    },
+    {
+        "title": "Redux ToolKit",
+        "description": "I have garnered a rich two-month internship experience in Redux toolkit realm during my tenure at Software Alliance. ",
+        "imgUrl": "/assets/reduxtoolkit.png"
+    },
+    {
+        "title": "JavaScript(ES6)",
+        "description": "I have garnered a rich two-month internship experience in Jsvsdcript ES6 realm during my tenure at Software Alliance.",
+        "imgUrl": "/assets/bgjs.jpeg"
+    },
+    {
+        "title": "MongoDB/Mongosee",
+        "description": "I have garnered a rich two-month internship experience in MongoDB realm during my tenure at Software Alliance.",
+        "imgUrl": "/assets/monogodb.png"
+    },
+    {
+        "title": "TailWind/Bootstrap",
+        "description": " I have garnered a rich two-month internship experience in Bootstrap5 realm during my tenure at Software Alliance.",
+        "imgUrl": "/assets/bgtb.jpg"
+    },
+    {
+        "title": "CSS3",
+        "description": "I have garnered a rich two-month internship experience in this CSS3 realm during my tenure at Software Alliance.",
+        "imgUrl": "/assets/css3.jpg"
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "name": "Abaad Ali",
+    "skill": "MENR STACK Developer",
+    "jobtitle":"Software Engineer",
+    "profileImg":"src/assets/profile.png",
+    "skillsImages":[
+        "/assets/redux.png",
+        "/assets/react.png",
+        "/assets/node.png"
+    ]
+
+}
