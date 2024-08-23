@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const AnimatedContact = () => {
 
     const openGmail = () => {
-        window.location.href = `mailto:dnazir343@gmail.com`;
+        window.location.href = `abaadali899@gmail.com`;
       };
 
     ////////////////---Web3form---////////////////////

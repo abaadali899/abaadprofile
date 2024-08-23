@@ -1,4 +1,3 @@
-import React from 'react'
 import Header from '../../components/Header/Header'
 import { About, Experience, Projects, Skills } from "../index"
 
